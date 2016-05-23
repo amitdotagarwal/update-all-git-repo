@@ -1,9 +1,7 @@
 # update-all-git-repo
 Source: https://gist.github.com/douglas/1287372
-
 Update all git repositories under a base directory
 #!/bin/bash
-
 # store the current dir
 CUR_DIR=$(pwd)
 
